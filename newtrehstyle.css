@@ -16,7 +16,7 @@ body,html{
 	text-align: center;
 	color: white;
 	font-size: 350%;
-	padding: 2%;
+	
 }
 .sign{
 	padding-top: 1%;
@@ -44,6 +44,7 @@ body,html{
 	border-radius: 10px;
 	font-size: 50%;
 	color: white;
+	padding-bottom: 1%;
 }
 .div2:hover{
 	width: 72%;
@@ -53,6 +54,7 @@ body,html{
 	margin-top: 5vh;
 	border-radius: 10px;
 	font-size: 50%;
+	padding-bottom: 1%;
 }
 .p1{
 	font-size: 30%;
@@ -71,26 +73,27 @@ body,html{
 	float: left;
 	margin-left: 2%;
 	font-size: 35%;
-	margin-top: 1vh;
+	margin-top: 0.5vh;
 }
 .p2:hover{
 	float: left;
 	margin-left: 2%;
 	font-size: 35%;
 	border-bottom: 1px solid white;
+	margin-top: 0.5vh;
 }
 .p3{
 	float: left;
 	margin-left: 2%;
 	font-size: 35%;
-	margin-top: 1vh;
+	margin-top: 0.5vh;
 }
 .p3:hover{
 	float: left;
 	margin-left: 2%;
 	font-size: 35%;
 	border-bottom: 1px solid white;
-	margin-top: 1vh;
+	margin-top: 0.5vh;
 }
 b{
 	font-size: 300%;
@@ -98,7 +101,6 @@ b{
 	margin-left: 1.5%;
 	float: top;
 	position: relative;
-	animation: divn 10s infinite;
 }
 .animet{
 	width: 5px;
@@ -114,24 +116,15 @@ b{
 		top: 0.1%;
 		left: 1.5%;
 	}
-	25%{
-		top: 0.1%;
-		left: 22.5%;
-		background: blue;
-	}
 	50%{
-		top: -5%;
-		left: 22.5%; 
-		background: yellow;
-	}
-	75%{
 		top: 0.1%;
-		left: 22.5%;
-		background: green;
+		left: 22%;
+		background: blue;
 	}
 	100%{
 		top: 0.1%;
-		left: 1.5%;
+		left: 1.5%; 
+		background: yellow;
 	}
 }
 a{
