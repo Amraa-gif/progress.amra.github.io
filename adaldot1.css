@@ -13,9 +13,10 @@ body,html{
 	background: rgba( 255, 255, 255, 0.15);
 }
 .b1{
-	font-size: 25px;
-	margin-top: 1%;
+	font-size: 2.5vh;
+	margin-top: 2vh;
 	margin-left: 1%;
+	margin-bottom: 0;
 	float: left;
 	border: 2px solid orange;
 	color: orange;
@@ -24,7 +25,7 @@ body,html{
 	width: 2%;
 	height: 2%;
 	float: right;
-	margin-top: 0.83%;
+	margin-top: 1.3vh;
 	margin-right: 0.5%;
 	border-radius: 100%;
 	border: 1px solid orange;
@@ -33,7 +34,7 @@ input{
 	float: right;
 	width: 10%;
 	padding: 0.5%;
-	margin-top: 0.9%;
+	margin-top: 1.3vh;
 	margin-right: -0.1%;
 	padding-left: 1.7%;
 	border-top-left-radius: 15px;
@@ -43,22 +44,22 @@ input{
 	float: right;
 	margin-right: 1%;
 	padding: 0.5%;
-	margin-top: 0.91%;
+	margin-top: 1.3vh;
 	border-top-right-radius: 15px;
 	border-bottom-right-radius: 15px;
 }
 .garah{
 	float: right;
 	margin-right: 1.5%;
-	margin-top: 1.2%;
-	font-size: 20px;
+	margin-top: 1.8vh;
+	font-size: 2.1vh;
 	color: orange;
 }
 .garah:hover{
 	float: right;
 	margin-right: 1.5%;
-	margin-top: 1.2%;
-	font-size: 20px;
+	margin-top: 1.8vh;
+	font-size: 2.1vh;
 	border-bottom: 1.5px solid orange;
 }
 .dood{
@@ -70,7 +71,7 @@ input{
 	height: 65vh;
 	float: left;
 	margin-top: 7%;
-	margin-left: 1%;
+	margin-left: 9.5%;
 	border: 3px solid orange;
 }
 #d1{

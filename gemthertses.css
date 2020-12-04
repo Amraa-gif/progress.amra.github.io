@@ -13,9 +13,10 @@ body,html{
 	background: rgba( 255, 255, 255, 0.15);
 }
 .b1{
-	font-size: 25px;
-	margin-top: 1%;
+	font-size: 2.5vh;
+	margin-top: 2vh;
 	margin-left: 1%;
+	margin-bottom: 0;
 	float: left;
 	border: 2px solid orange;
 	color: orange;
@@ -24,7 +25,7 @@ body,html{
 	width: 2%;
 	height: 2%;
 	float: right;
-	margin-top: 0.83%;
+	margin-top: 1.3vh;
 	margin-right: 0.5%;
 	border-radius: 100%;
 	border: 1px solid orange;
@@ -33,7 +34,7 @@ input{
 	float: right;
 	width: 10%;
 	padding: 0.5%;
-	margin-top: 0.9%;
+	margin-top: 1.3vh;
 	margin-right: -0.1%;
 	padding-left: 1.7%;
 	border-top-left-radius: 15px;
@@ -43,22 +44,22 @@ input{
 	float: right;
 	margin-right: 1%;
 	padding: 0.5%;
-	margin-top: 0.91%;
+	margin-top: 1.3vh;
 	border-top-right-radius: 15px;
 	border-bottom-right-radius: 15px;
 }
 .garah{
 	float: right;
 	margin-right: 1.5%;
-	margin-top: 1.2%;
-	font-size: 20px;
+	margin-top: 1.8vh;
+	font-size: 2.1vh;
 	color: orange;
 }
 .garah:hover{
 	float: right;
 	margin-right: 1.5%;
-	margin-top: 1.2%;
-	font-size: 20px;
+	margin-top: 1.8vh;
+	font-size: 2.1vh;
 	border-bottom: 1.5px solid orange;
 }
 .dood{
@@ -79,7 +80,7 @@ input{
 }
 #p1{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;
 	color: black;
 }
@@ -93,12 +94,12 @@ input{
 }
 #p2{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;
 }
 #p2:hover{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;
 	color: orange;
 }
@@ -112,12 +113,12 @@ input{
 }
 #p3{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;	
 }
 #p3:hover{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;
 	color: orange;
 }
@@ -131,12 +132,12 @@ input{
 }
 #p4{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;
 }
 #p4:hover{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;
 	color: orange;
 }
@@ -145,17 +146,17 @@ input{
 	height: 4vh;
 	float: top;
 	margin-top: 0vh;
-	border-bottom: 4px solid black;
+	border-bottom: 2px solid black;
 	border-top: 2px solid black;
 }
 #p5{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;
 }
 #p5:hover{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;
 	color: orange;
 }
@@ -163,18 +164,18 @@ input{
 	width: 100%;
 	height: 4vh;
 	float: top;
-	margin-top: 35.7vh;
+	margin-top: 0;
 	border-bottom: 4px solid black;
-	border-top: 4px solid black;
+	border-top: 2px solid black;
 }
 #p6{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;
 }
 #p6:hover{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;
 	color: orange;
 }
@@ -186,13 +187,13 @@ input{
 	border-top: 1.25px solid black; 
 }
 #p11{
-	font-size: 15px;
+	font-size: 1.5vh;
 	text-align: center;
 	margin-top: 1.2vh;
 	color: black;
 }
 #p11:hover{
-	font-size: 15px;
+	font-size: 1.5vh;
 	text-align: center;
 	margin-top: 1.2vh;
 	color: orange;
@@ -205,12 +206,12 @@ input{
 	border-top: 1.25px solid black;
 }
 #p12{
-	font-size: 15px;
+	font-size: 1.5vh;
 	text-align: center;
 	margin-top: 1.2vh;
 }
 #p12:hover{
-	font-size: 15px;
+	font-size: 1.5vh;
 	text-align: center;
 	margin-top: 1.2vh;
 	color: orange;
@@ -223,12 +224,12 @@ input{
 	border-top: 1.25px solid black;
 }
 #p13{
-	font-size: 15px;
+	font-size: 1.5vh;
 	text-align: center;
 	margin-top: 1.2vh;
 }
 #p13:hover{
-	font-size: 15px;
+	font-size: 1.5vh;
 	text-align: center;
 	margin-top: 1.2vh;
 	color: orange;
@@ -243,7 +244,7 @@ input{
 	border-radius: 5px;
 }
 #p14{
-	font-size: 15px;
+	font-size: 1.5vh;
 	text-align: center;
 	margin-top: 1.2vh;
 }
@@ -255,12 +256,12 @@ input{
 	border-top: 1.25px solid black;
 }
 #p15{
-	font-size: 15px;
+	font-size: 1.5vh;
 	text-align: center;
 	margin-top: 1.2vh;
 }
 #p15:hover{
-	font-size: 15px;
+	font-size: 1.5vh;
 	text-align: center;
 	margin-top: 1.2vh;
 	color: orange;
@@ -273,12 +274,12 @@ input{
 	border-top: 1.25px solid black;
 }
 #p16{
-	font-size: 15px;
+	font-size: 1.5vh;
 	text-align: center;
 	margin-top: 1.2vh;
 }
 #p16:hover{
-	font-size: 15px;
+	font-size: 1.5vh;
 	text-align: center;
 	margin-top: 1.2vh;
 	color: orange;
@@ -291,12 +292,12 @@ input{
 	border-top: 1.25px solid black;
 }
 #p17{
-	font-size: 15px;
+	font-size: 1.5vh;
 	text-align: center;	
 	margin-top: 1.2vh;
 }
 #p17:hover{
-	font-size: 15px;
+	font-size: 1.5vh;
 	text-align: center;
 	margin-top: 1.2vh;
 	color: orange;

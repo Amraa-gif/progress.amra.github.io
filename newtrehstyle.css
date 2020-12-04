@@ -86,14 +86,14 @@ body,html{
 	float: left;
 	margin-left: 2%;
 	font-size: 35%;
-	margin-top: 0.5vh;
+	margin-top: 0.1vh;
 }
 .p3:hover{
 	float: left;
 	margin-left: 2%;
 	font-size: 35%;
 	border-bottom: 1px solid white;
-	margin-top: 0.5vh;
+	margin-top: 0.1vh;
 }
 b{
 	font-size: 300%;
