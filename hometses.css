@@ -1,5 +1,5 @@
 body{
-	background: url(homebg.jpg) top center/ cover no-repeat;
+	background: url(turshilt.jpg) top center/ cover no-repeat;
 	width: 100%;
 	height: 100vh;
 	overflow: hidden;
@@ -10,7 +10,7 @@ body,html{
 .deed{
 	width: 100%;
 	height: 7vh;
-	background: rgba( 255, 255, 255, 0.30);
+	background: rgba( 255, 255, 255, 0.3);
 }
 .b1{
 	font-size: 2.5vh;
@@ -18,34 +18,31 @@ body,html{
 	margin-left: 1%;
 	margin-bottom: 0;
 	float: left;
-	border: 2px solid black;
+	border: 2px solid white;
+	color: white;
 }
 .accpro{
-	width: 2%;
-	height: 2%;
+	width: 4vh;
+	height: 4vh;
 	float: right;
 	margin-top: 1.3vh;
 	margin-right: 0.5%;
 	border-radius: 100%;
-	border: 1px solid black;
+	border: 1px solid white;
 }
-input{
+.garah{
 	float: right;
-	width: 10%;
-	padding: 0.5%;
-	margin-top: 1.3vh;
-	margin-right: -0.1%;
-	padding-left: 1.7%;
-	border-top-left-radius: 15px;
-	border-bottom-left-radius: 15px;
+	margin-right: 1.5%;
+	margin-top: 2vh;
+	font-size: 2.1vh;
+	color: white;
 }
-button{
+.garah:hover{
 	float: right;
-	margin-right: 1%;
-	padding: 0.5%;
-	margin-top: 1.3vh;
-	border-top-right-radius: 15px;
-	border-bottom-right-radius: 15px;
+	margin-right: 1.5%;
+	margin-top: 1.8vh;
+	font-size: 2.1vh;
+	border-bottom: 1.5px solid white;
 }
 .dood{
 	width: 100%;
@@ -55,19 +52,20 @@ button{
 	width: 15%;
 	height: 70vh;
 	float: left;
-	margin-top: 10vh;
+	margin-top: 9vh;
 	margin-left: 21%;
 }
 .moviepro{
 	width:100%;
 	height: 32vh;
 	border-radius: 15px;
+	border: 0.3vh solid white;
 }
 .movietext{
 	font-size: 2.5vh;
 	text-align: center;
 	margin-top: 0;
-	border-bottom: 2px solid black;
+	border-bottom: 2px solid white;
 	display: none;
 }
 .moviepro:hover+.movietext{
@@ -78,19 +76,20 @@ button{
 	width: 15%;
 	height: 70svh;
 	float: left;
-	margin-top: 10vh;
+	margin-top: 9vh;
 	margin-left: 6.5%;
 }
 .bookpro{
 	width: 100%;
 	height: 32vh;
 	border-radius: 15px;
+	border: 0.3vh solid white;
 }
 .booktext{
 	font-size: 2.5vh;
 	text-align: center;
 	margin-top: 0;
-	border-bottom: 2px solid black;
+	border-bottom: 2px solid white;
 	display: none;
 }
 .bookpro:hover+.booktext{
@@ -101,19 +100,20 @@ button{
 	width: 15%;
 	height: 70vh;
 	float: left;
-	margin-top: 10vh;
+	margin-top: 9vh;
 	margin-left: 6.5%;
 }
 .travelpro{
 	width: 100%;
 	height: 32vh;
 	border-radius: 15px;
+	border: 0.3vh solid white;
 }
 .traveltext{
 	font-size: 2.5vh;
 	text-align: center;
 	margin-top: 0;
-	border-bottom: 2px solid black;
+	border-bottom: 2px solid white;
 	display: none;
 }
 .travelpro:hover+.traveltext{
@@ -125,31 +125,34 @@ button{
 	height: 32vh;
 	margin-top: 6vh;
 	border-radius: 15px;
+	border: 0.3vh solid white;
 }
 .podcasttext{
 	font-size: 2.5vh;
 	text-align: center;
 	margin-top: 0;
-	border-bottom: 2px solid black;
+	border-bottom: 2px solid white;
 	display: none;
 }
 .podcastpro:hover+.podcasttext{
 	display: block;
 }
-.exercisepro{
+.sodonpro{
 	width: 100%;
 	height: 32vh;
 	margin-top: 6vh;
 	border-radius: 15px;
+	border: 0.3vh solid white;
 }
-.exercisetext{
+.sodontext{
 	font-size: 2.5vh;
 	text-align: center;
 	margin-top: 0;
-	border-bottom: 2px solid black;
+	border-bottom: 2px solid white;
 	display: none;
+	color: white;
 }
-.exercisepro:hover+.exercisetext{
+.sodonpro:hover+.sodontext{
 	display: block;
 }
 .progresspro{
@@ -157,34 +160,50 @@ button{
 	height: 32vh;
 	margin-top: 6vh;
 	border-radius: 15px;
+	border: 0.3vh solid white;
 }
 .progresstext{
 	font-size: 2.5vh;
 	text-align: center;
 	margin-top: 0;
-	border-bottom: 2px solid black;
+	border-bottom: 2px solid white;
 	display: none;
+	color: white;
 }
 .progresspro:hover+.progresstext{
 	display: block;
 }
-.garah{
-	float: right;
-	margin-right: 1.5%;
-	margin-top: 1.8vh;
-	font-size: 2.1vh;
-	color: black;
-}
-.garah:hover{
-	float: right;
-	margin-right: 1.5%;
-	margin-top: 1.8vh;
-	font-size: 2.1vh;
-	border-bottom: 1.5px solid black;
-}
 a{
 	text-decoration: none;
-	color: black;
+	color: white;
+}
+.animet{
+	font-size: 3vh;
+	color: white;
+	position: absolute;
+	text-align: center;
+	animation: pmove 10s;
+	top: 90vh;
+	left: -50%;
+	border-bottom: 0.1vh solid white;
+}
+@keyframes pmove{
+	0%{
+		top: 90vh;
+		left: -50%;
+	}
+	30%{
+		top: 90vh;
+		left: 1%; 
+	}
+	70%{
+		top: 90vh;
+		left: 1%; 
+	}
+	100%{
+		top: 90vh;
+		left: -50%;
+	}
 }
 
 

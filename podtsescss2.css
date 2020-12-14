@@ -12,12 +12,12 @@
 }
 .turul1{
 	color: blue;
-	font-size: 30px;
+	font-size: 3vh;
 	float: left;
 	margin-left: 3%;
-	margin-top: 1.5%;
+	margin-top: 3vh;
 	float: left;
-	border-bottom: 3px solid blue;
+	border-bottom: 0.3vh solid blue;
 }
 .podhoid1{
 	width: 94%;
